@@ -1,0 +1,27 @@
+// page 4/14 code
+let numberOfDogs = 6 + 2
+
+let numberOfCats = 5 - 1
+
+let numberOfTurtles = 2 + 1
+
+let numberOfHamsters = 1 + 1
+
+let totalNumberOfAnimals = numberOfDogs + numberOfCats + numberOfTurtles + numberOfHamsters + numberOfPotBelliedPigs + numberOfFishes + numberOfSnakes
+
+let totalNumberOfMammals = numberOfDogs + numberOfCats + numberOfHamsters + numberOfPotBelliedPigs
+
+let numberOfPotBelliedPigs = 1
+
+let numberOfFishes = 1
+
+let numberOfSnakes = 1
+
+// page 11
+let ticketsSold = 1000
+let ticketPrice = 3
+let printingCosts = 15
+let advertising = 10
+
+// page 12
+5000/150
