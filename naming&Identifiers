@@ -1,4 +1,19 @@
-// page 4/14 code
+// page 4
+
+let numberOfDogs = 6+2
+
+let numberOfCats = 5-1
+
+let numberOfTurtles = 2+1
+
+let numberOfHamsters = 1+1
+
+let totalNumberOfAnimals = numberOfDogs + numberOfCats + numberOfTurtles + numberOfHamsters
+
+let totalNumberOfMammals = numberOfDogs + numberOfCats + numberOfHamsters
+
+// page 6
+
 let numberOfDogs = 6 + 2
 
 let numberOfCats = 5 - 1
@@ -17,11 +32,80 @@ let numberOfFishes = 1
 
 let numberOfSnakes = 1
 
+// page 10
+
+// Number Of Tickets
+150
+
+// Ticket Price
+10
+
+// Room Rental Fee
+1000
+
+// Poster Cost
+40
+
+// Total Ticket Value
+150 * 10
+
+// Total Expenses
+1000 + 40
+
+// Total Income Of Show
+(150 * 10) - (1000 + 40)
+
+let numberOfTickets = 150
+
 // page 11
 let ticketsSold = 1000
 let ticketPrice = 3
 let printingCosts = 15
 let advertising = 10
 
+// Total takings
+let totalTakings = ticketPrice * ticketsSold
+
+// Jackpot
+let jackpot = totalTakings / 2
+
+// Expenses
+let totalExpenses = printingCosts + advertising
+
+// Profit
+let profit = totalTakings - jackpot - totalExpenses
+
+// Distribution
+let programmersCut = profit / 10
+let friendsCut = profit - programmersCut
+
 // page 12
 5000/150
+
+// page 13 
+let brushTeeth = 3
+// Add more here...
+let uploadPhotos = 2
+let chooseClothes = 1
+let shower = 8
+let goJogging = 12
+let finishHomework = 15
+let fixlunch = 5
+
+// all added together
+brushTeeth+uploadPhotos+chooseClothes+shower+goJogging+finishHomework+fixlunch
+
+// things I can do when I get home
+shower+finishHomework+brushTeeth
+
+// page 14
+let orangeCrates  = 14
+let melonCrates = 3
+let orangePalletWeight = 100
+let melonPalletWeight = 200
+let orangeWeight = orangeCrates * orangePalletWeight
+let melonWeight = melonCrates * melonPalletWeight
+let totalWeight = orangeWeight + melonWeight
+let es = totalWeight / 2
+let leftSideOfTruck = es / orangePalletWeight
+let RightSideOfTruck = orangeCrates - leftSideOfTruck
