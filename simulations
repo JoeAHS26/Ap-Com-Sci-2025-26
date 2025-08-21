@@ -1,0 +1,23 @@
+// page 3
+
+//numberOfAnts = 150
+//antSpeed = 125
+
+// page 4
+
+//environmentCellSize = 20
+//numberOfAnts = 200
+//pheromoneEvaporationRate = 250
+//pheromoneDepositRate = 750
+
+// page 5
+//homePheromoneDepositRate = 500
+//foodPheromoneDepositRate = 500
+//homePheromoneEvaporationRate = 750
+//foodPheromoneEvaporationRate = 800
+
+//environmentCellSize = 15
+//numberOfAnts = 100
+
+//numberOfAnts = 50
+//antSpeed = 120
