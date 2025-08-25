@@ -1,0 +1,31 @@
+// page 3
+// Declare a favoriteMovie constant
+let favoriteMovie = "thePrincessBride"
+// Declare a favoriteSong constant
+let favoriteSong = "soldierOfDance"
+
+// page 5
+print("test123Test123Test123")
+print("test#2")
+
+// page 6
+// Declare a firstName constant
+let firstName = "John"
+// Declare a lastName constant
+let lastName = "Doe"
+// Combine the strings into a fullName constant
+let fullName = firstName + lastName
+// Combine your full name with likesYourPostMessage
+let notificaition=fullName + "Has liked your post!"
+
+// page 8
+// Change this to your favorite food
+let favoriteFood = "Spaghetti"
+
+// Change this to why you like it
+let reason = "yummy"
+
+// Define a string below in the pattern "I like ___ because it is ___."
+let foodReason = "I like \(favoriteFood) because it's \(reason)"
+
+// page 
