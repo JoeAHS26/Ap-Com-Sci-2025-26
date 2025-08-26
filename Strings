@@ -28,4 +28,38 @@ let reason = "yummy"
 // Define a string below in the pattern "I like ___ because it is ___."
 let foodReason = "I like \(favoriteFood) because it's \(reason)"
 
-// page 
+// page 10
+let name = "Jason"
+let savings = 35
+let purchase = "blue skateboard"
+let store = "weSellEVerythingButFabricSoftener"
+let goodFeeling = "proud"
+let word = "control"
+let dailyReport = "Today was a very big day for \(name). They had saved up \(savings) for a long time and planend to get a very limted \(purchase) at \(store). Walking in with \(goodFeeling), he wandered over to where he knew it would be, but the second he got home he unboxed it and was out of \(word) playing with his new \(purchase)!."
+
+// page 12
+let favoriteQuotation = "Inigo Montoya said: \"Hello. My name is Inigo Montoya. You killed my fatehr. Prepare to die.\""
+
+// page 14
+let constants = "Declaring string constants"
+let unicode = "Unicode characters (😎)"
+let combining = "Combining strings using +"
+let interpolation = "String interpolation (aka Fill in the Blanks)"
+let escaping = "Escape characters for \"special powers\""
+let newline = "Making new lines"
+
+let newKnowledge = "I've learned what \(constants), \(unicode) which are \"😁\",or emojis, as well as how \(combining) strings works, as well as \(interpolation), \"how to add quotations in a line of text\", and what \n newlines are"
+
+// page 15
+let serverResponseToTableTwo = "Let me make sure I've got this right: \(customerOrderFour), \(customerOrderFive), and \(customerOrderSix)?"
+
+// page 17
+let extraStorageMB = 5000
+let vidSizeAMin = 150
+let maxVideoLength = extraStorageMB/vidSizeAMin
+let PhoneVideoStorage = "You can record 33 more minutes of video"
+
+// page 18
+let author2Name = "Lincoln Pierce"
+let book2Title = "Big Nate"
+print("Did you know that \(book2Title) was written by \(author2Name)?")
