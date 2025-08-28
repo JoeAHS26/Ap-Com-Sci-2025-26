@@ -1,0 +1,45 @@
+// page 4
+score=5
+score=score+score
+
+// page 5
+score += 2
+
+// page 7
+var name = "Johnny"
+name = "John"
+
+// page 9
+let friendBeverageChoice = "coffee"
+
+// page 10
+// Scores for each target
+let scoreForGreen = 5 //changed to let
+let scoreForRed = 10 //changed to let
+let scoreForGold = 20 //changed to let
+
+// Player scores
+var scoreForGary = 0
+var scoreForRob = 0
+
+// Game events here
+scoreForGary += scoreForRed
+scoreForGary += scoreForGreen
+scoreForGary += scoreForGold
+
+scoreForRob += scoreForRed
+scoreForRob += scoreForGreen //changed to scoreForRob from scoreForRed
+scoreForRob += scoreForGold
+
+scoreForGary += scoreForRed
+scoreForGary += scoreForGreen
+scoreForGary += scoreForGold
+
+scoreForRob += scoreForRed
+scoreForRob += scoreForGreen
+scoreForRob += scoreForGold
+
+scoreForRob
+scoreForGary
+
+// page 
