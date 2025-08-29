@@ -42,4 +42,31 @@ scoreForRob += scoreForGold
 scoreForRob
 scoreForGary
 
-// page 
+// page 12
+let eggs = "Eggs"
+let milk = "Milk"
+let cheese = "Cheese"
+let bread = "Bread"
+let rice = "Rice"
+let newLine = "\n"
+
+var shoppingList = eggs + newLine + milk + newLine + cheese + newLine + bread + newLine + rice
+
+// page 13
+var scoreOverall = 501
+var finalScore = 0
+let throwsMe = 10+20+15
+let throwsOpponent = 40+30+28
+var myScore = scoreOverall-throwsMe
+var oppScore = scoreOverall-throwsOpponent
+print ("Man, you're doing alright. it's only round 1 though, and I'm at ",oppScore," and you're at ",myScore, "so let's see how this next one goes")
+let throwsMe2 = 15+25+20
+let throwsOpponent2 = 40+30+40
+var myScoreNextRound = myScore-throwsMe2
+var oppScoreNextRound = oppScore-throwsOpponent2
+print ("Ok, a little closer now. you can still come back though.")
+let throwsMe3 = 60+60+60
+let throwsOpponent3 = 40+20+14
+let FinalScoreMe = myScoreNextRound-throwsMe3
+let FinalScoreOpp = oppScoreNextRound-throwsOpponent3
+print("Man. Close game. You got incredibly lucky that round to get ",throwsMe3," in a single round. I thought my previous ones would've been enough to make up for my bad ",throwsOpponent3,"that round. Good game though.")
