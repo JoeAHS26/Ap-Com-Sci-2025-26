@@ -1,0 +1,23 @@
+print("Enter correct types of words for each blank")
+
+let firstAd] = readLine()!
+
+let firstNoun = readLine(!
+
+let secondAdj = readLine()!
+
+let secondNoun = readLine(!
+
+let firstVerb = readLine(!
+
+let thirdNoun = readLine(!
+
+let secondVerb = readLine()!
+
+let thirdVerb = readLine()!
+
+let fourthNoun = readLine()!
+
+let thirdAdj = readLine()!
+
+print ("\nOn a \(firstAdj) day, Luke went to the \(firstNoun) with his friends. When he got there, he saw a \(secondAdj) \(secondNoun) and that suprised him. He didn't pay too much attention to it and continued with his day. When he rrived, his friends agreed to go do \(firstVerb) for a while. After, they decided to go do something else, and they went to the \(thirdNoun) and did \(secondVerb). They hung out for a while, and then as they \(thirdVerb) home, they all pcked up some \(fourthNoun) and got home and told their parents about the \(thirdAdj) day they had!")
